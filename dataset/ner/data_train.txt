@@ -2203,11 +2203,7 @@ Wartawan secara tradisional lebih mengandalkan akal daripada hukum internasional
 Namun , lanjut laporan itu , banyak kelompok perlawanan lebih suka menggunakan internet untuk menyebarkan pesan .
 <ORG>BPS</ORG> melaporkan , dari <QUANTITY>45 kota</QUANTITY> tercatat <QUANTITY>31 kota</QUANTITY> mengalami inflasi dan <QUANTITY>14 kota</QUANTITY> mengalami deflasi , dengan inflasi tertinggi terjadi di <LOC>Jayapura</LOC> <QUANTITY>1,76 persen</QUANTITY> dan inflasi terendah di <LOC>Lhokseumawe</LOC> dan <LOC>Sibolga</LOC> masing-masing <QUANTITY>0,01 persen</QUANTITY> .
 Sementara itu menanggapi laporan nilai ekspor dan impor barang modal yang mengalami penurunan , <PERSON>Boediono</PERSON> mengatakan , tidak akan akurat jika analisa terhadap masalah itu dilakukan secara bulan per bulan .
-Kadangkala ada masalah seperti bencana dan sebagainya , ini kan bisa menghambat ekspor maupun impor .
-Jadi kita lihat deh , jangan satu bulan , kita lihat satu semester .
 Ia mengharapkan gambaran awal tahun yang menunjukkan adanya penurunan tidak menggambarkan keseluruhan tahun <TIME>2007</TIME> nantinya .
-Harga-harga komoditi kita masih lumayan , moga-moga ini hanya sementara .
-Jadi kita tenang saja dulu , katanya .
 <ORG>PT Bank Mandiri</ORG> dinobatkan sebagai Bank paling efesien dari <QUANTITY>130 bank</QUANTITY> yang beroperasi di <LOC>Indonesia</LOC> oleh <ORG>Harian Bisnis Indonesia</ORG> dalam ' Banking Efficiency Award Bisnis Indonesia <TIME>2007</TIME> ' .
 Ekonom Bisnis <LOC>Indonesia</LOC> Dr . <PERSON>Rofikoh Rokhim</PERSON> , dalam acara penobatan ' Banking Efficiency Award Bisnis <LOC>Indonesia</LOC> <TIME>2007</TIME> ' di <LOC>Jakarta</LOC> , <TIME>Senin</TIME> , mengatakan bahwa <ORG>Bank Mandiri</ORG> merupakan bank yang memiliki skor efesiensi tertinggi dibandingkan nilai efesiensi relatif dari keseluruhan bank dengan <QUANTITY>rata-rata nilai 0,85863</QUANTITY> .
 Menurut <PERSON>Rofikoh</PERSON> , penilian efesiensi ini berdasarkan kinerja perbankan <TIME>2006</TIME> .
@@ -2229,9 +2225,7 @@ Juga ditemukan bahwa mereka naik jauh lebih banyak di daerah timur laut dibandin
 Termasuk pekerja dari pemerintahan negara bagian dan lokal - - tapi bukan pemerintahan pusat , indeks biaya tenaga kerja naik <QUANTITY>1.6 %</QUANTITY> dalam kuartal ketiga , dibanding dengan <QUANTITY>1.3 %</QUANTITY> kenaikan dalam kuartal yang sama pada <TIME>1988</TIME> .
 Indeks tersebut naik <QUANTITY>1.1 %</QUANTITY> pada kuartal kedua .
 Untuk <QUANTITY>12 bulan</QUANTITY> yang berakhir pada bulan <TIME>september</TIME> , indeks ini naik <QUANTITY>5.1 %</QUANTITY> .
-Perbandingan Molekuler memperdalam Kebuntuan Evolusi Kambrium .
 <PERSON>Mohammad Hossein</PERSON> menyatakan bahwa domba hasil kloning itu bisa makan dengan baik dan bergembira bersama kawanan domba lainnya .
-Menyulap biomassa menjadi energi .
 Komputer modern von Neumann menunjukan beberapa sifat arsitektur Harvard dalam disainnya , seperti dalam caches CPU unit pemroses pusat .
 Kapal-kapal modern juga menggunakan haluan yang serupa dengan moncong hidung lumba-lumba yang dirancang dengan pola yang memperlancar aliran air untuk meningkatkan kecepatan kapal sebagaimana halnya lumba-lumba .
 Dengan demikian , sistem operasi modern dapat mematikan suatu monitor setelah suatu perioda tertentu ketidakaktifan .
@@ -2240,7 +2234,6 @@ Peluru kendali jelajah modern dapat terbang mencapai kecepatan supersonik atau d
 Komputer modern berdasarkan sirkuit terpadu integrated circuits kecil dan jutaan hingga milyaran kali lebih berkemampuan , sementara itu komputer modern hanya memerlukan sepersekian dari tempat yang dibutuhkan komputer elektronik pertama .
 Pengguna mobile di Indonesia mencapai <QUANTITY>100 juta</QUANTITY> , dan <QUANTITY>60 persen</QUANTITY> aktif .
 Misi ke <LOC>Mars</LOC> dan sekitarnya direncanakan dapat diluncurkan pada <TIME>tahun 2009</TIME> .
-Keajaiban Perkembangbiakan Katak .
 Kementerian Badan Usaha Milik Negara sangat mendukung langkah <ORG>PT Pos Indonesia</ORG> untuk merampungkan rencana mengintegrasikan seluruh kantornya secara online .
 Ketinggian minimal untuk orbit stabil dimulai <QUANTITY>sekitar 350 km</QUANTITY> di atas permukaan laut rata-rata .
 Meminimalkan pemanasan global dilakukan dengan mengurangi pelepasan gas rumah kaca dan mencegah terjadinya pencemaran udara lainnya ke atmosfer .
