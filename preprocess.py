@@ -65,6 +65,33 @@ class Preprocess():
         
         return data_train
     
+<<<<<<< HEAD
+    def preprocess_ner(self):
+        dataset = []
+        for text in self.ner_dataset:
+            text = text.strip()
+            get_entities = re.findall(self.pattern_get_entities, text)
+            ent_label = []
+            for _entlabel in get_entities:
+                entlabel = re.findall(self.pattern_label_ent, _entlabel)
+                entlabel = [(j[0], j[1]) for j in entlabel]
+                ent_label.extend(entlabel)
+            clean_text = re.sub(self.clean_text, '', text).strip()
+            for ent in ent_label:
+                ents = {}
+                label = ent[0]
+                start = clean_text.index(ent[1])
+                end = start + len(ent[1]) + 1
+                ents["entities"] = [(start, end, label)]
+                dataset.append((clean_text, ents))
+        return dataset
+
+if __name__ == "__main__":
+    helper = Preprocess()
+    helper.preprocess_ner()
+    
+=======
+>>>>>>> 741318f9d71e5903382ec7bf3b3c5e157bef6995
 
 
 
