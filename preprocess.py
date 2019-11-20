@@ -65,7 +65,6 @@ class Preprocess():
         
         return data_train
     
-<<<<<<< HEAD
     def preprocess_ner(self):
         dataset = []
         for text in self.ner_dataset:
@@ -90,8 +89,6 @@ if __name__ == "__main__":
     helper = Preprocess()
     helper.preprocess_ner()
     
-=======
->>>>>>> 741318f9d71e5903382ec7bf3b3c5e157bef6995
 
 
 
