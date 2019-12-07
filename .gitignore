@@ -1,0 +1,4 @@
+.vscode/settings.json
+.DS_Store
+dataset/.DS_Store
+dataset/ner/.DS_Store
